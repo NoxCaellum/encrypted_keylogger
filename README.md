@@ -69,6 +69,7 @@ educational_keylogger.exe
 
 ## 📁 Project Structure
 educational-keylogger/
+
 ├── c2_client.py   
 ├── c2_server.py        
 ├── educational_keylogger.py 
