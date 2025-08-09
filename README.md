@@ -33,7 +33,7 @@ Windows OS
 Clone the repository:
 ```powershell
 git clone https://github.com/NoxCaellum/encrypted_keylogger
-cd educational-keylogger
+cd educational_keylogger
 ```
 
 Install dependencies:
@@ -68,7 +68,7 @@ educational_keylogger.exe
 
 
 ## 📁 Project Structure
-educational-keylogger/
+educational_keylogger/
 
 ├── c2_client.py   
 ├── c2_server.py        
