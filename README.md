@@ -1,7 +1,7 @@
 # 🔐 Educational Keylogger with C2
 
 
-##⚠️ Educational Purpose Only
+## ⚠️ Educational Purpose Only
 This project is developed for educational and cybersecurity research purposes only.
 
 ✅ Security research and education
