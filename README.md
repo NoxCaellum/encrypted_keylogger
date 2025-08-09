@@ -11,15 +11,15 @@ This project is developed for educational and cybersecurity research purposes on
 
 ### 📋 Description
 An educational keylogger implementation with encrypted Command & Control (C2) communication for cybersecurity learning purposes. This project demonstrates various security concepts including data exfiltration, persistence mechanisms, and client-server communication in a controlled educational environment.
-🎯 Features
 
-🎹 Educational Keylogger - Captures keyboard inputs for learning purposes
-🌐 Encrypted C2 Communication - Secure client-server architecture
-🔒 Data Encryption - Encrypted data transmission for security research
-💾 Persistence Mechanism - Windows registry-based persistence (educational)
-🔄 Auto-start Functionality - Session-based startup via registry modification
-📁 APPDATA Integration - File management in user directory
-💽 USB Autorun - Portable execution capabilities
+### 🎯 Features
+
+- Captures keyboard inputs for learning purposes
+- Secure client-server architecture
+- Encrypted data transmission
+- Windows registry-based persistence
+- Session-based startup via registry modification
+- Portable execution capabilities
 
 ### 🛠️ Installation
 Prerequisites
@@ -28,7 +28,7 @@ Python 3.8
 Windows OS
 
 
-## Setup
+### Setup
 
 Clone the repository:
 ```powershell
@@ -67,7 +67,7 @@ educational_keylogger.exe
 
 
 
-## 📁 Project Structure
+### 📁 Project Structure
 educational_keylogger/
 
 ├── c2_client.py   
