@@ -69,15 +69,15 @@ educational_keylogger.exe
 
 ## 📁 Project Structure
 educational-keylogger/
-├── c2_client.py           # C2 client module
-├── c2_server.py           # C2 server
-├── educational_keylogger.py # Main keylogger
-├── persistence.py         # Persistence mechanisms
-├── usbautorun.py         # USB autorun functionality
-├── key.ico              # Application icon
-├── requirements.txt     # Dependencies
-├── LICENSE             # License file
-└── README.md          # This file
+├── c2_client.py   
+├── c2_server.py        
+├── educational_keylogger.py 
+├── persistence.py      
+├── usbautorun.py        
+├── key.ico             
+├── requirements.txt    
+├── LICENSE            
+└── README.md          
 
 
 ### 🧪 Educational Testing
